@@ -24,7 +24,7 @@
 
 ## About
 Fiz esse projeto durante a 8ª edição da NLW, em 2022. Consiste em uma landing page para uma clínica de saúde fictícia.
-O projeto tem o intutio de estudar as propriedas e utilizações das linguagens HTML, CSS e Javascript.
+O projeto tem o intutio de estudar as propriedades e utilizações das linguagens HTML, CSS e Javascript.
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
